@@ -27,4 +27,4 @@ for(i in 1:nrow(tags))
   print(i)
 }
 }
-write
+wtite.csv (oldlocustag, oldlocustag.csv)
